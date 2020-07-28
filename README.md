@@ -10,7 +10,7 @@ Avoid creating huge game protocol since we can use Requests and Responses, which
 Read more [here](https://github.com/EsotericSoftware/kryonet)
 
 ## libGDX
-It allows us to create application game logic, create screens and render all that we need using OpenGL.
+It allows us to create applications game logic, create screens and render all that we need using OpenGL.
 
 ## Getting Started
 ### Clone repo
